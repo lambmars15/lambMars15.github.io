@@ -3,7 +3,7 @@
 <html>
 <head>
     <metacharset="UTF-8">
-    <title>Hello GitHub.io</title>
+    <title>Hello, This is lambMars</title>
 </head>
 <body>
     <h1>Hello, I'm lambMars!</h1>
